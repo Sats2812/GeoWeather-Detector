@@ -8,3 +8,5 @@ IPstack for detecting your current location
 
 
 I have also used Tkinter to create a GUI for the output.
+
+Note: Run the weather.py file for the output 
